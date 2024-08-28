@@ -11,7 +11,7 @@
 ## Address
 * Project: https://console.firebase.google.com/project/no-money-no-honey-okay/overview
 * Server: https://us-central1-no-money-no-honey-okay.cloudfunctions.net/api
-* Client: 
+* Client: https://no-money-no-honey-okay.web.app
 
 ## CLI
 * flutter run
