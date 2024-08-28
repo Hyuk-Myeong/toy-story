@@ -22,7 +22,11 @@ firebase deploy --only functions
 
 ### Frontend
 ```
+flutter config --enable-web
 flutter build web
+flutter run -d chrome
+npm install -g firebase-tools
+firebase login
 firebase init
 firebase deploy --only hosting
 ```
