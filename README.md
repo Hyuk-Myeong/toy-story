@@ -17,8 +17,20 @@
 * flutter run
 ### Backend
 ```
+npm install -g firebase-tools
+firebase login
+mkdir project
+cd project
+npm install cors
+firebase init functions
+flutter clean
+flutter pub get
+flutter upgrade
+flutter build web
+flutter run
 firebase deploy --only functions
 ```
+
 
 ### Frontend
 ```
